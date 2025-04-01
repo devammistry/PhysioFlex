@@ -2,6 +2,8 @@
 
 PhysioFlex is a fully frontend-based responsive web application designed to enhance user interaction and accessibility for physiotherapy patients. This project provides an intuitive and visually appealing interface that enables seamless communication between patients and our physiotherapy clinic.
 
+Check out my [web](https://devammistry.github.io/PhysioFlex/) project on GitHub!
+
 ## Features
 
 - **Fully Frontend-Based**: Built entirely using HTML, CSS, and JavaScript to ensure smooth and interactive user experience.
