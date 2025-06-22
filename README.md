@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 # PhysioFlex
 
 PhysioFlex is a fully frontend-based responsive web application designed to enhance user interaction and accessibility for physiotherapy patients. This project provides an intuitive and visually appealing interface that enables seamless communication between patients and physiotherapy clinic.
